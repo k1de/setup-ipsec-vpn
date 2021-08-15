@@ -23,9 +23,9 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-YOUR_IPSEC_PSK=''
-YOUR_USERNAME=''
-YOUR_PASSWORD=''
+YOUR_IPSEC_PSK='soSecurePSK'
+YOUR_USERNAME='username'
+YOUR_PASSWORD='soSecurePassword'
 
 # Important notes:   https://git.io/vpnnotes
 # Setup VPN clients: https://git.io/vpnclients
